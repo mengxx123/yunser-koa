@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node ./src/index",
+    "dev": "node ./src/index"
+  },
   "dependencies": {
     "koa": "^2.5.0",
     "koa-logger": "^3.2.0",
